@@ -1,0 +1,15 @@
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.csprojAssemblyReference.cache
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.AssemblyInfoInputs.cache
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.AssemblyInfo.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.csproj.CoreCompileInputs.cache
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.RazorComponent.input.cache
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\obj\Debug\netcoreapp3.1\Remo.RazorComponent.output.cache

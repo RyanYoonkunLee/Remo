@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yoonkun Lee\\Desktop\\Project\\Remo\\WebApplication1\\Remo.csproj",
-      "projectName": "Remo",
-      "projectPath": "C:\\Users\\Yoonkun Lee\\Desktop\\Project\\Remo\\WebApplication1\\Remo.csproj",
+      "projectUniqueName": "C:\\Users\\Yoonkun Lee\\Desktop\\Project\\Remo\\WebApplication1\\WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\Users\\Yoonkun Lee\\Desktop\\Project\\Remo\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Yoonkun Lee\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Yoonkun Lee\\Desktop\\Project\\Remo\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",

@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Remo.Shared
+namespace WebApplication1.Shared
 {
     #line hidden
     using System;
@@ -83,7 +83,7 @@ using WebApplication1.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\Shared\NavMenu.razor"
+#line 33 "C:\Users\Yoonkun Lee\Desktop\Project\Remo\WebApplication1\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

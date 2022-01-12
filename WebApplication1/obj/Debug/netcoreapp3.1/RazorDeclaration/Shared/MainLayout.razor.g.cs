@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Remo.Shared
+namespace WebApplication1.Shared
 {
     #line hidden
     using System;

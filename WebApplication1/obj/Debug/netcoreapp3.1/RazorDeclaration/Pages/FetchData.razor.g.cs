@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Remo.Pages
+namespace WebApplication1.Pages
 {
     #line hidden
     using System;
